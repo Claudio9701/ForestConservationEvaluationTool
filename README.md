@@ -130,3 +130,6 @@ Uses job data to report analytics about the job performed. The tables are based 
 ### upload
 
 Handles user file uploads which are always shapefiles. In some interactions users upload shapefiles, we automatically reproject these to EPSG:4326. The shapefile itself is stored on disk and the file location is stored in the database.
+
+
+<!-- Security scan triggered at 2025-09-02 00:13:36 -->
